@@ -1,0 +1,6 @@
+D:\Edu\Misc\LanguageFeatures\LanguageFeatures\bin\Debug\LanguageFeatures.exe.config
+D:\Edu\Misc\LanguageFeatures\LanguageFeatures\bin\Debug\LanguageFeatures.exe
+D:\Edu\Misc\LanguageFeatures\LanguageFeatures\bin\Debug\LanguageFeatures.pdb
+D:\Edu\Misc\LanguageFeatures\LanguageFeatures\obj\Debug\LanguageFeatures.exe
+D:\Edu\Misc\LanguageFeatures\LanguageFeatures\obj\Debug\LanguageFeatures.pdb
+D:\Edu\Misc\LanguageFeatures\LanguageFeatures\obj\Debug\LanguageFeatures.csprojResolveAssemblyReference.cache

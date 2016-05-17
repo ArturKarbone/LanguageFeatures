@@ -1,0 +1,10 @@
+﻿-Auto-property initializers
+-Getter-only auto-properties/ctor assign (readonly)
+-Using static members
+-Dictionary initializers
+-Expression body members
+-Await in catch/finally
+-Exception filters
+-Null conditional operator
+-String interpolation
+-nameof
